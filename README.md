@@ -3,4 +3,4 @@
 效果很赞 gif显示问题
 
 
-![效果](https://github.com/maiawei/LoadTextView/blob/master/pic/result.gif)
+![效果](https://github.com/maiawei/LoadTextView/blob/master/pic/gifresult.gif)
